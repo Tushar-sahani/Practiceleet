@@ -2,7 +2,7 @@
 
 // https://leetcode.com/problems/palindrome-number/
 
-package Java;  // this is from tushar shahani
+package Java;  
 
 public class palindrome {
 
