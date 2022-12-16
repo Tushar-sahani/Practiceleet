@@ -9,6 +9,7 @@ public class coinArranging {
     public static void main(String[] args) {
         int i=0;
         int n = 8;
+        //count
         while(n>0)
         {
             i++;
