@@ -2,16 +2,15 @@
 
 // https://leetcode.com/problems/reverse-integer/
 
-package Java;
 
 public class reverseint {
 
     public static void main(String[] args) {
         int x = 1534236469;
-        int result = reverseint(x);
+        int result = reverseinte(x);
         System.out.println(result);
     }
-    static int reverseint(int x){
+    static int reverseinte(int x){
         long n = 0;
         
         while(x!=0){

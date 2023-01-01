@@ -2,7 +2,7 @@
 
 // https://leetcode.com/problems/arranging-coins/
 
-package Java;
+
 
 public class coinArranging {
 
