@@ -7,10 +7,10 @@ public class palindrome {
 
     public static void main(String[] args) {
         int x = -121;
-        boolean result = palindrome(x);
+        boolean result = palindromeno(x);
         System.out.println(result);
     }
-    static boolean palindrome(int x){
+    static boolean palindromeno(int x){
         int n = 0;
         int m = Math.abs(x);
         while(x!=0){
