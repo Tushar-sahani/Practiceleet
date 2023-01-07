@@ -7,5 +7,6 @@ public class Dominopiling {
         int m = sc.nextInt();
         int n = sc.nextInt();
         System.out.println((int)Math.ceil((m*n)/2));
+        sc.close();
     }
 }

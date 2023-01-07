@@ -4,7 +4,7 @@ public class football {
         Scanner sc = new Scanner(System.in);
         String s = sc.next();
         System.out.println(footbal(s));
-        
+        sc.close();
     }
     static String footbal(String s){
         int count0 = 0,count1 = 0;
