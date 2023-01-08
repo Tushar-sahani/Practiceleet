@@ -1,5 +1,5 @@
 // LINK - https://leetcode.com/problems/set-mismatch/
-class Solution {
+class setmismatch {
     public int[] findErrorNums(int[] nums) {
         int[] arr = new int[2];
         int i=0;

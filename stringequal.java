@@ -1,6 +1,6 @@
 // link - https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent
 
-class Solution {
+class stringequal {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
         String str1 = "";
         String str2 = "";

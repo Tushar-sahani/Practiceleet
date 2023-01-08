@@ -1,6 +1,6 @@
 // link - https://leetcode.com/problems/first-missing-positive/
 
-class Solution {
+class MissingPositive {
     public int firstMissingPositive(int[] nums) {
         int i = 0;
         while(i<nums.length){
