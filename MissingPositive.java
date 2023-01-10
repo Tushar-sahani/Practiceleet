@@ -1,5 +1,5 @@
 // link - https://leetcode.com/problems/first-missing-positive/
-
+package Java.Practiceleet;
 class MissingPositive {
     public int firstMissingPositive(int[] nums) {
         int i = 0;

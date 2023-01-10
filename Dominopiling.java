@@ -1,5 +1,5 @@
 // link - https://codeforces.com/problemset/problem/50/A
-
+package Java.Practiceleet;
 import java.util.*;
 public class Dominopiling {
     public static void main(String[] args) {

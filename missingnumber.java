@@ -1,5 +1,5 @@
 // link - https://leetcode.com/problems/missing-number/
-
+package Java.Practiceleet;
 class solution {
     public int missingNumber(int[] nums) {
         int i = 0;

@@ -1,5 +1,5 @@
 // link - https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent
-
+package Java.Practiceleet;
 class stringequal {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
         String str1 = "";

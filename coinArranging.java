@@ -1,7 +1,7 @@
 // QUESTION LINK
 
 // https://leetcode.com/problems/arranging-coins/
-
+package Java.Practiceleet;
 
 
 public class coinArranging {

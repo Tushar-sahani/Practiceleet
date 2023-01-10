@@ -1,5 +1,5 @@
 // link - https://leetcode.com/problems/find-the-duplicate-number
-
+package Java.Practiceleet;
 class duplicateno {
     public int findDuplicate(int[] arr) {
         int i=0;

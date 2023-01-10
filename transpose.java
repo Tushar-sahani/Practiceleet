@@ -1,6 +1,6 @@
 // link - https://leetcode.com/problems/transpose-matrix/
-
-class transpose {
+package Java.Practiceleet;
+public class transpose {
     public int[][] transposemat(int[][] matrix) {
         int[][] arr = new int[matrix[0].length][matrix.length];
         for(int i=0;i<matrix.length;i++){

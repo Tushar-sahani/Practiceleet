@@ -1,3 +1,4 @@
+package Java.Practiceleet;
 public class integerMapping {
     public static void main(String[] args) {
         String s = "1326#";

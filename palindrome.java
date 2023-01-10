@@ -2,7 +2,7 @@
 
 // https://leetcode.com/problems/palindrome-number/
 
-
+package Java.Practiceleet;
 public class palindrome {
 
     public static void main(String[] args) {

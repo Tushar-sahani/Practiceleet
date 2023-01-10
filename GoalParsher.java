@@ -1,4 +1,5 @@
 // link - https://leetcode.com/problems/goal-parser-interpretation/
+package Java.Practiceleet;
 public class GoalParsher {
     public static void main(String[] args) {
         String command = "()(al)G()()(al)";

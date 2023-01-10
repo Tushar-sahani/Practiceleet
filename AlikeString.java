@@ -1,5 +1,5 @@
 // link - https://leetcode.com/problems/determine-if-string-halves-are-alike/
-
+package Java.Practiceleet;
 class AlikeString {
     public boolean halvesAreAlike(String s) {
        char[] str = {'a','e','i','o','u','A','E','I','O','U'};
